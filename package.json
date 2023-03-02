@@ -1,7 +1,7 @@
 {
   "name": "deep-end-extension",
   "displayName": "deep-end-extension",
-  "description": "A hello world sample extension to demonstrate using React + CRA with the Webview UI Toolkit for VS Code.",
+  "description": "A VSCode extension for jumping in at the deep end with Javascript development",
   "version": "0.0.1",
   "publisher": "cbranch101",
   "engines": {
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/cbranch101/vscode-extension-demo"
+    "url": "https://github.com/cbranch101/deep-end-extension"
   },
   "categories": [
     "Other"
